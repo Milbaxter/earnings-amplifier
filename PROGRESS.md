@@ -60,11 +60,23 @@
 - ✅ Identified 5 Tier 1 targets (Posti, Aspo, Nurminen, Harvia, GRK)
 - ✅ GitHub repo created and pushed
 
+### 2026-01-30
+- ✅ **Downloaded Posti Group Q4 2024 Financial Statements Bulletin (PDF)**
+  - Source: https://www.posti.com/en/financial_statements_bulletin_2024
+  - File: parsing/Posti_Q4_2024_Financial_Statements_Bulletin.pdf (1.5MB)
+- ✅ **Extracted comprehensive metrics to JSON**
+  - File: parsing/posti_q4_2024_metrics.json
+  - Q4 2024: Net sales EUR 403.6M (-6.1% YoY), Adj EBITDA EUR 54.2M (13.4% margin)
+  - FY 2024: Net sales EUR 1,521.4M (-4.1% YoY), Adj EBITDA EUR 207.6M (13.6% margin, +5% YoY)
+  - Key story: Profitability improved despite revenue decline (10 consecutive years of margin improvement)
+  - Recommerce volumes quintupled (secondhand marketplace growth)
+  - EUR 150M extra dividend (December 2024)
+
 ### Next Heartbeat Tasks (Pick One)
-1. **Download Posti Group Q4 2024 earnings report** (check their IR page)
+1. **Download Harvia Q4 2024 earnings report** and extract metrics to JSON
 2. Find IR contact emails for 5 target companies (LinkedIn, company websites)
-3. Build simple dashboard prototype structure (HTML/Tailwind template)
-4. Research Harvia's latest earnings and brand story
+3. Build simple dashboard prototype structure for Posti (HTML/Tailwind template)
+4. Draft 60-sec video script for Posti Q4 2024 earnings
 
 ---
 

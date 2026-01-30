@@ -1,0 +1,244 @@
+{
+  "company": {
+    "name": "Posti Group Corporation",
+    "ticker": "POSTI",
+    "country": "Finland",
+    "industry": "Logistics & Postal Services",
+    "reportUrl": "https://www.posti.com/en/financial_statements_bulletin_2024",
+    "pdfUrl": "https://assets.ctfassets.net/1v32pqxqm0al/5B4FxXU02VJupwx47vIydF/96814c3b36f6e7b8296abc8a453db117/PostiGroup_FinancialStatementsBulletin_2024.pdf"
+  },
+  "reportPeriod": {
+    "quarter": "Q4",
+    "year": 2024,
+    "fiscalYearEnd": "2024-12-31"
+  },
+  "financials": {
+    "quarterly": {
+      "period": "Q4 2024",
+      "netSales": {
+        "value": 403.6,
+        "currency": "EUR",
+        "unit": "million",
+        "yoyChange": -6.1,
+        "yoyChangePercent": -6.1,
+        "priorYear": 429.7
+      },
+      "adjustedEBITDA": {
+        "value": 54.2,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 13.4,
+        "priorYear": 64.2,
+        "priorYearMargin": 14.9,
+        "change": -10.0,
+        "changePercent": -15.6
+      },
+      "EBITDA": {
+        "value": 52.8,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 13.1,
+        "priorYear": 64.2,
+        "priorYearMargin": 14.9
+      },
+      "adjustedOperatingResult": {
+        "value": 21.7,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 5.4,
+        "priorYear": 31.6,
+        "priorYearMargin": 7.4
+      },
+      "operatingResult": {
+        "value": 19.2,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 4.8,
+        "priorYear": 31.0,
+        "priorYearMargin": 7.2
+      },
+      "netIncome": {
+        "value": 12.4,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": 22.8
+      },
+      "epsBasic": {
+        "value": 0.31,
+        "currency": "EUR",
+        "priorYear": 0.57
+      }
+    },
+    "fullYear": {
+      "period": "FY 2024",
+      "netSales": {
+        "value": 1521.4,
+        "currency": "EUR",
+        "unit": "million",
+        "yoyChange": -4.1,
+        "yoyChangePercent": -4.1,
+        "priorYear": 1586.1
+      },
+      "adjustedEBITDA": {
+        "value": 207.6,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 13.6,
+        "priorYear": 197.7,
+        "priorYearMargin": 12.5,
+        "change": 9.9,
+        "changePercent": 5.0
+      },
+      "EBITDA": {
+        "value": 196.6,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 12.9,
+        "priorYear": 188.6,
+        "priorYearMargin": 11.9
+      },
+      "adjustedOperatingResult": {
+        "value": 80.1,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 5.3,
+        "priorYear": 66.4,
+        "priorYearMargin": 4.2,
+        "change": 13.7,
+        "changePercent": 20.6
+      },
+      "operatingResult": {
+        "value": 68.0,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 4.5,
+        "priorYear": -7.0,
+        "priorYearMargin": -0.4,
+        "note": "Prior year impacted by impairments and special items"
+      },
+      "netIncome": {
+        "value": 43.8,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": -25.2
+      },
+      "returnOnCapitalEmployed": {
+        "value": 11.2,
+        "unit": "percent",
+        "period": "12 months",
+        "priorYear": -1.0
+      },
+      "netDebt": {
+        "value": 257.5,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": 240.0
+      },
+      "netDebtToAdjustedEBITDA": {
+        "value": 1.2,
+        "unit": "x",
+        "priorYear": 1.2
+      },
+      "operativeFreeCashFlow": {
+        "value": -2.9,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": 28.6
+      },
+      "epsBasic": {
+        "value": 1.10,
+        "currency": "EUR",
+        "priorYear": -0.63
+      },
+      "dividendPerShare": {
+        "value": 0.83,
+        "currency": "EUR",
+        "note": "Board proposal to AGM"
+      },
+      "totalDividend": {
+        "value": 33.0,
+        "currency": "EUR",
+        "unit": "million",
+        "note": "Board proposal to AGM"
+      },
+      "extraDividend": {
+        "value": 150.0,
+        "currency": "EUR",
+        "unit": "million",
+        "note": "Decided December 20, 2024"
+      },
+      "totalDividend2024": {
+        "value": 181.8,
+        "currency": "EUR",
+        "unit": "million",
+        "note": "Ordinary EUR 31.8M + Extra EUR 150M"
+      }
+    }
+  },
+  "operationalHighlights": {
+    "q4": [
+      "Hired 1,700 seasonal employees for Christmas peak",
+      "Delivered 10M+ Christmas cards and 7M parcels in 5 busiest weeks",
+      "Total parcel volume declined 2% (prior year +3%)",
+      "Addressed letter volumes declined 18% (prior year -12%)",
+      "Universal service mail items: 6.4% of all items (prior 5.8%)",
+      "EUR 1.5M bonus to personnel fund in Finland",
+      "HQ moving back to historic Postitalo building in Helsinki (late 2025)"
+    ],
+    "fullYear": [
+      "Adjusted EBITDA margin improved for 10 consecutive years",
+      "Above long-term financial target for FY 2024",
+      "Recommerce (secondhand marketplace) volumes quintupled",
+      "EcoVadis Platinum rating (top 1% globally)",
+      "Amazon Excellence in Emissions Reporting award",
+      "CSR Coups de Coeur 2024 for diesel-to-electric truck innovation"
+    ]
+  },
+  "segments": {
+    "eCommerceAndDelivery": {
+      "note": "Consumer e-commerce grew, B2B deliveries declined",
+      "adjustedEBITDA": "increased",
+      "netSales": "declined"
+    },
+    "fulfillmentAndLogistics": {
+      "note": "Low economic environment, especially construction market",
+      "adjustedEBITDA": "increased",
+      "netSales": "declined",
+      "issue": "Low warehouse fill rates"
+    },
+    "postalServices": {
+      "note": "Letter volumes declined, operational efficiency improved",
+      "adjustedEBITDA": "increased",
+      "netSales": "declined"
+    }
+  },
+  "personnel": {
+    "endOfPeriod": 14764,
+    "average_FTE": 13095,
+    "priorYearAvg": 14272
+  },
+  "outlook2025": {
+    "netSales": "on previous year's level (EUR 1,521.4M)",
+    "adjustedEBITDA": "on previous year's level (EUR 207.6M)",
+    "risks": [
+      "Macroeconomic uncertainty",
+      "Consumer confidence volatility",
+      "Consumer behavior impacts on business",
+      "Continued postal volume decline expected"
+    ],
+    "seasonality": "Q1 and Q4 strong (consumer parcels, postal), Q2 and Q3 weaker"
+  },
+  "ceoQuotes": {
+    "antti_jaaskelainen": [
+      "Quick reactions to changing market environment and efficient operational performance",
+      "Maintained profitability at a great level during 2024",
+      "Relative adjusted EBITDA improved for ten consecutive years",
+      "Recommerce parcel volumes quintupled - expect growth trend to continue",
+      "Ambition to be a leader in sustainability",
+      "Strategy focuses on growth in e-commerce, logistics and fulfillment services"
+    ]
+  },
+  "extractedDate": "2026-01-30T00:21:00Z",
+  "extractedBy": "Moltbot",
+  "dataSource": "Posti Group Financial Statements Bulletin Q4/2024"
+}
