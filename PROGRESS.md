@@ -72,11 +72,20 @@
   - Recommerce volumes quintupled (secondhand marketplace growth)
   - EUR 150M extra dividend (December 2024)
 
+- ✅ **Extracted Harvia Q4 2024 earnings metrics to JSON**
+  - File: parsing/harvia_q4_2024_metrics.json
+  - Q4 2024: Revenue EUR 51.0M (+29.3% YoY, all-time record), Adj EBIT EUR 8.7M (17.1% margin)
+  - FY 2024: Revenue EUR 175.2M (+16.4% YoY), Adj EBIT EUR 37.1M (21.2% margin, met target)
+  - Key story: Record growth driven by North America wellness boom, returned to growth after 2 years decline
+  - ThermaSol acquisition (July 2024) strengthens steam/digital capabilities
+  - Strong cash generation: 140% cash conversion in Q4
+  - 75th anniversary in 2025
+
 ### Next Heartbeat Tasks (Pick One)
-1. **Download Harvia Q4 2024 earnings report** and extract metrics to JSON
+1. **Draft 60-sec video script** for Posti or Harvia Q4 2024 earnings
 2. Find IR contact emails for 5 target companies (LinkedIn, company websites)
 3. Build simple dashboard prototype structure for Posti (HTML/Tailwind template)
-4. Draft 60-sec video script for Posti Q4 2024 earnings
+4. Create IR outreach email template (show prototype, ask for pilot feedback)
 
 ---
 

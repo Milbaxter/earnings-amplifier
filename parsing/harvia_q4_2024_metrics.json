@@ -1,0 +1,395 @@
+{
+  "company": {
+    "name": "Harvia Plc",
+    "ticker": "HARVIA",
+    "exchange": "Nasdaq Helsinki",
+    "country": "Finland",
+    "industry": "Sauna & Wellness Equipment",
+    "reportUrl": "https://harviagroup.com/harvia-plc-strong-revenue-growth-and-excellent-cash-flow-in-q4-2024-full-year-growth-and-profitability-on-long-term-target-level-9266/",
+    "founded": 1950,
+    "headquarters": "Muurame, Finland"
+  },
+  "reportPeriod": {
+    "quarter": "Q4",
+    "year": 2024,
+    "fiscalYearEnd": "2024-12-31",
+    "publishDate": "2025-02-13"
+  },
+  "financials": {
+    "quarterly": {
+      "period": "Q4 2024",
+      "revenue": {
+        "value": 51.0,
+        "currency": "EUR",
+        "unit": "million",
+        "yoyChange": 29.3,
+        "yoyChangePercent": 29.3,
+        "priorYear": 39.4,
+        "organicGrowth": 21.7,
+        "note": "All-time quarterly sales record"
+      },
+      "EBITDA": {
+        "value": 10.4,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 20.4,
+        "priorYear": 10.8,
+        "priorYearMargin": 27.5,
+        "change": -4.1,
+        "changePercent": -4.1
+      },
+      "adjustedEBITDA": {
+        "value": 10.7,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 21.0,
+        "priorYear": 11.1,
+        "priorYearMargin": 28.3,
+        "change": -4.1,
+        "changePercent": -4.1
+      },
+      "operatingProfit": {
+        "value": 8.4,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 16.5,
+        "priorYear": 9.2,
+        "priorYearMargin": 23.4,
+        "change": -8.7,
+        "changePercent": -8.7
+      },
+      "adjustedOperatingProfit": {
+        "value": 8.7,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 17.1,
+        "priorYear": 9.5,
+        "priorYearMargin": 24.2,
+        "change": -8.6,
+        "changePercent": -8.6,
+        "note": "Below long-term target of >20% due to campaign sales and growth initiatives"
+      },
+      "epsBasic": {
+        "value": 0.29,
+        "currency": "EUR",
+        "priorYear": 0.39,
+        "change": -24.7,
+        "changePercent": -24.7
+      },
+      "operativeFreeCashFlow": {
+        "value": 15.0,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": 15.5,
+        "change": -3.1,
+        "changePercent": -3.1
+      },
+      "cashConversion": {
+        "value": 140.3,
+        "unit": "percent",
+        "priorYear": 138.9,
+        "note": "Supported by favorable changes in net working capital"
+      },
+      "investments": {
+        "value": -1.8,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": -1.4,
+        "change": 27.2,
+        "changePercent": 27.2
+      }
+    },
+    "fullYear": {
+      "period": "FY 2024",
+      "revenue": {
+        "value": 175.2,
+        "currency": "EUR",
+        "unit": "million",
+        "yoyChange": 16.4,
+        "yoyChangePercent": 16.4,
+        "priorYear": 150.5,
+        "organicGrowth": 12.9,
+        "atComparableExchangeRates": 175.0
+      },
+      "EBITDA": {
+        "value": 42.4,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 24.2,
+        "priorYear": 39.3,
+        "priorYearMargin": 26.1,
+        "change": 8.0,
+        "changePercent": 8.0
+      },
+      "adjustedEBITDA": {
+        "value": 44.1,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 25.1,
+        "priorYear": 39.9,
+        "priorYearMargin": 26.5,
+        "change": 10.4,
+        "changePercent": 10.4
+      },
+      "operatingProfit": {
+        "value": 35.5,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 20.3,
+        "priorYear": 33.0,
+        "priorYearMargin": 21.9,
+        "change": 7.4,
+        "changePercent": 7.4
+      },
+      "adjustedOperatingProfit": {
+        "value": 37.1,
+        "currency": "EUR",
+        "unit": "million",
+        "margin": 21.2,
+        "priorYear": 33.7,
+        "priorYearMargin": 22.4,
+        "change": 10.2,
+        "changePercent": 10.2,
+        "note": "Met long-term target of >20%"
+      },
+      "epsBasic": {
+        "value": 1.30,
+        "currency": "EUR",
+        "priorYear": 1.25,
+        "change": 4.2,
+        "changePercent": 4.2
+      },
+      "operativeFreeCashFlow": {
+        "value": 35.0,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": 44.6,
+        "change": -21.5,
+        "changePercent": -21.5
+      },
+      "cashConversion": {
+        "value": 79.4,
+        "unit": "percent",
+        "priorYear": 111.7
+      },
+      "netDebt": {
+        "value": 57.2,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": 37.6,
+        "change": 52.3,
+        "changePercent": 52.3
+      },
+      "leverage": {
+        "value": 1.3,
+        "unit": "x",
+        "priorYear": 0.9,
+        "note": "Net debt / adjusted EBITDA (12 months)"
+      },
+      "equityRatio": {
+        "value": 47.2,
+        "unit": "percent",
+        "priorYear": 51.0
+      },
+      "netWorkingCapital": {
+        "value": 45.0,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": 36.1,
+        "change": 24.4,
+        "changePercent": 24.4
+      },
+      "adjustedROCE": {
+        "value": 45.5,
+        "unit": "percent",
+        "priorYear": 44.2,
+        "note": "Return on capital employed (adjusted)"
+      },
+      "investments": {
+        "value": -6.1,
+        "currency": "EUR",
+        "unit": "million",
+        "priorYear": -3.1,
+        "change": 96.8,
+        "changePercent": 96.8
+      },
+      "dividendPerShare": {
+        "value": 0.75,
+        "currency": "EUR",
+        "priorYear": 0.68,
+        "change": 10.3,
+        "changePercent": 10.3,
+        "note": "Board proposal, paid in two installments"
+      }
+    }
+  },
+  "operationalHighlights": {
+    "q4": [
+      "All-time quarterly sales record: EUR 51.0M",
+      "Revenue growth 29.3% YoY (21.7% organic)",
+      "Strong growth in North America and APAC & MEA",
+      "ThermaSol acquisition (July 2024) contributed to growth",
+      "Excellent Black Friday / Cyber Monday campaign performance",
+      "Large project deliveries in APAC & MEA",
+      "Operating free cash flow EUR 15.0M (140.3% cash conversion)",
+      "Profitability impacted by lower-margin campaigns and growth investments"
+    ],
+    "fullYear": [
+      "Returned to growth after 2 years of decline",
+      "Met all long-term financial targets (10% growth, >20% EBIT, <2.5x leverage)",
+      "North America is now largest market region",
+      "ThermaSol acquisition strengthens steam and digital capabilities",
+      "75th anniversary in 2025",
+      "~700 employees globally",
+      "Strong innovation pipeline, multiple new products launched"
+    ]
+  },
+  "geographicPerformance": {
+    "northAmerica": {
+      "trend": "Very strong growth",
+      "drivers": [
+        "High interest in sauna products",
+        "Increased awareness of health benefits",
+        "Winter high-demand season",
+        "Strong Black Friday/Cyber Monday campaigns",
+        "ThermaSol acquisition contribution"
+      ]
+    },
+    "apacAndMEA": {
+      "trend": "Strong growth",
+      "drivers": [
+        "Growth in strategically important markets",
+        "Large project deliveries (favorable timing)",
+        "Solid sales across product groups"
+      ]
+    },
+    "europe": {
+      "trend": "Challenging, slight growth in Q4",
+      "northernEurope": {
+        "trend": "Challenging, slight growth in Q4",
+        "drivers": [
+          "Scandinavia and Baltics delivered growth",
+          "Finland continued to decline (construction/housing weakness, low consumer confidence)"
+        ]
+      },
+      "continentalEurope": {
+        "trend": "Solid growth in premium segment",
+        "drivers": [
+          "Professional and high-end segments performing well",
+          "EOS-branded products gaining traction"
+        ]
+      }
+    }
+  },
+  "strategicInitiatives": {
+    "acquisitions": [
+      {
+        "company": "ThermaSol Steam Bath LLC",
+        "location": "Texas, USA",
+        "date": "July 2024",
+        "employees": 39,
+        "rationale": "High-end steam solutions, strengthens North America foothold, digital capabilities",
+        "integration": "Progressing well, small negative Q4 profitability impact (lower margin than group average)"
+      }
+    ],
+    "growthInvestments": [
+      "Strengthening organization",
+      "Portfolio development",
+      "Innovation pipeline",
+      "Digital capabilities",
+      "Production efficiency and capacity improvements"
+    ],
+    "productLaunches": [
+      "Several new products launched in Q4",
+      "Strong innovation pipeline continuing"
+    ]
+  },
+  "personnel": {
+    "endOfPeriod": 696,
+    "priorYear": 605,
+    "change": 15.0,
+    "changePercent": 15.0,
+    "note": "Includes 39 ThermaSol employees",
+    "locations": [
+      "Finland",
+      "United States",
+      "Germany",
+      "Romania",
+      "China",
+      "Hong Kong",
+      "Austria",
+      "Italy",
+      "Estonia",
+      "Sweden"
+    ]
+  },
+  "financialTargets": {
+    "longTerm": {
+      "revenueGrowth": {
+        "target": "10% average annual",
+        "status": "2024: 16.4% ✓"
+      },
+      "adjustedOperatingMargin": {
+        "target": ">20%",
+        "status": "2024: 21.2% ✓"
+      },
+      "leverage": {
+        "target": "<2.5x (net debt/adjusted EBITDA)",
+        "status": "2024: 1.3x ✓"
+      },
+      "note": "Long-term targets updated May 2024 to reflect growth ambitions"
+    },
+    "dividendPolicy": "Regularly increasing dividend with bi-annual payout"
+  },
+  "marketConditions": {
+    "q4": {
+      "northAmerica": "Positive momentum, high winter demand",
+      "apacMEA": "Positive momentum",
+      "europe": "Challenging overall",
+      "finland": "Very challenging (construction/housing weakness, low consumer confidence)"
+    }
+  },
+  "ceoQuotes": {
+    "matias_jarnefelt": [
+      "Q4: Significant acceleration in growth while driving strategic initiatives",
+      "Costs from growth initiatives + lower-margin campaigns impacted EBIT (below target)",
+      "Profitability target >20% EBIT very important - working toward it",
+      "North America and APAC & MEA are largest growth drivers and key priority",
+      "Strengthening portfolio and digital capabilities key to future success",
+      "2024 was a strong year - turned revenue back to growth after 2 years decline",
+      "ThermaSol acquisition important step in market consolidation",
+      "2025 is 75th anniversary - proud heritage, looking forward to next chapter",
+      "Harvia starts 2025 from an excellent position"
+    ]
+  },
+  "keyInsights": {
+    "strengths": [
+      "Record quarterly revenue growth (29.3%)",
+      "Strong geographic diversification (North America now #1)",
+      "Excellent cash generation (140% cash conversion in Q4)",
+      "Met all long-term financial targets for FY 2024",
+      "Strong brand portfolio (Harvia, EOS, ThermaSol)",
+      "High ROCE (45.5%)",
+      "Growing health/wellness trend tailwind"
+    ],
+    "challenges": [
+      "Q4 profitability below target due to campaign mix",
+      "Finland market very weak (construction crisis)",
+      "Growth investments pressuring short-term margins",
+      "ThermaSol integration diluting margins temporarily",
+      "Increased debt from acquisition (leverage 1.3x vs 0.9x)"
+    ],
+    "opportunities": [
+      "North America sauna awareness growing rapidly",
+      "APAC & MEA expansion potential",
+      "Premium/professional segment growth in Europe",
+      "Steam product category expansion (ThermaSol)",
+      "Digital capabilities enhancement",
+      "Market consolidation (M&A opportunities)"
+    ],
+    "storyAngle": "Premium sauna maker achieves record growth, pivots to North America wellness boom"
+  },
+  "extractedDate": "2026-01-30T01:21:00Z",
+  "extractedBy": "Moltbot",
+  "dataSource": "Harvia Plc Financial Statements Bulletin Q4/2024 (published 2025-02-13)"
+}
