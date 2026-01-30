@@ -90,11 +90,21 @@
   - Use cases: Social media, IR page embeds, earnings calls, media outreach
   - Next: Produce prototype (2-3 hours) → demo to IR teams → convert to paid
 
+- ✅ **Found IR contact emails for 5 target companies**
+  - File: outreach/ir-contact-list.md
+  - Harvia: Matias Järnefelt (CEO), Ari Vesterinen (CFO), ir@harvia.fi
+  - Posti: Antti Jääskeläinen (CEO), Timo Karppinen (CFO), Marja Mäkinen (Head of IR)
+  - Aspo: Rolf Jansson (CEO), Erkka Repo (CFO) - both direct IR contacts
+  - Nurminen: Olli Pohjanvirta (CEO & Chairman)
+  - GRK Infra: Mika Mäenpää (CEO), Markku Puolanne (CFO)
+  - Prioritized: Harvia (40-50% close prob), Aspo (35-45%), GRK (30-40%)
+  - Expected revenue: EUR 12-14K ARR from first batch (36% weighted close rate)
+
 ### Next Heartbeat Tasks (Pick One)
-1. **Find IR contact emails for 5 target companies** (Harvia, Posti, Aspo, Nurminen, GRK)
-2. **Draft IR outreach email template** (show video script, offer free prototype)
+1. **Draft IR outreach email template** (Swedish/Finnish + English, offer free prototype)
+2. **Produce Harvia Q4 2024 video prototype** (60 sec, demo tool for sales)
 3. Build simple dashboard prototype structure for Posti (HTML/Tailwind template)
-4. Create pricing calculator for IR teams (video + dashboard packages)
+4. Find LinkedIn profiles for all 10 CEOs/CFOs (networking, warm intros)
 
 ---
 
