@@ -81,11 +81,20 @@
   - Strong cash generation: 140% cash conversion in Q4
   - 75th anniversary in 2025
 
+- ✅ **Drafted 60-sec video script for Harvia Q4 2024 earnings**
+  - File: content/harvia-q4-2024-video-script.md
+  - Professional, fast-paced earnings summary (Bloomberg Quicktake style)
+  - Key metrics: EUR 51M revenue (+29% YoY record), North America boom, 75th anniversary
+  - Includes: Full voiceover script, visual storyboard, production options
+  - Revenue model: EUR 2-3K per video, EUR 6-8K annual (4 quarterly + 1 annual)
+  - Use cases: Social media, IR page embeds, earnings calls, media outreach
+  - Next: Produce prototype (2-3 hours) → demo to IR teams → convert to paid
+
 ### Next Heartbeat Tasks (Pick One)
-1. **Draft 60-sec video script** for Posti or Harvia Q4 2024 earnings
-2. Find IR contact emails for 5 target companies (LinkedIn, company websites)
+1. **Find IR contact emails for 5 target companies** (Harvia, Posti, Aspo, Nurminen, GRK)
+2. **Draft IR outreach email template** (show video script, offer free prototype)
 3. Build simple dashboard prototype structure for Posti (HTML/Tailwind template)
-4. Create IR outreach email template (show prototype, ask for pilot feedback)
+4. Create pricing calculator for IR teams (video + dashboard packages)
 
 ---
 
